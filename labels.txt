@@ -1,0 +1,6 @@
+0 Paper
+1 Plastic
+2 Glass
+3 Metal
+4 Drink carons
+5 Other wastes
